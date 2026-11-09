@@ -50,8 +50,8 @@ open index.html
 
 ## Contact
 
-- Email: sharanv05@gmail.com
-- LinkedIn: [linkedin.com/in/sharanv05](https://www.linkedin.com/in/sharanv05)
+- Email: sharanvenkatesh09@gmail.com
+- LinkedIn: [linkedin.com/in/sharanvenkatesh](https://www.linkedin.com/in/sharanvenkatesh)
 
 ## Usage
 
